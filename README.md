@@ -1,2 +1,2 @@
 # sistemaBibliotecario
-Desenvolvimento Desktop - S istema de gerenciamento de empréstimo.
+Desenvolvimento Desktop - Sistema de gerenciamento de empréstimo.
